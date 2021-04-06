@@ -1,0 +1,114 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "vmess",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "hkec2.yyyywe.top",
+                        "port": 18080,
+                        "users": [
+                            {
+                                "alterId": 1,
+                                "id": "1408f88f-92ac-3632-84bf-a57f286ff7d1",
+                                "level": 0,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "dsSettings": {
+                    "path": "/"
+                },
+                "httpSettings": {
+                    "host": [
+                    ],
+                    "path": "/"
+                },
+                "kcpSettings": {
+                    "congestion": false,
+                    "downlinkCapacity": 20,
+                    "header": {
+                        "type": "none"
+                    },
+                    "mtu": 1350,
+                    "readBufferSize": 1,
+                    "seed": "",
+                    "tti": 20,
+                    "uplinkCapacity": 5,
+                    "writeBufferSize": 1
+                },
+                "network": "ws",
+                "quicSettings": {
+                    "header": {
+                        "type": "none"
+                    },
+                    "key": "",
+                    "security": ""
+                },
+                "security": "none",
+                "sockopt": {
+                    "mark": 255,
+                    "tcpFastOpen": false,
+                    "tproxy": "off"
+                },
+                "tcpSettings": {
+                    "header": {
+                        "request": {
+                            "headers": {
+                            },
+                            "method": "GET",
+                            "path": [
+                            ],
+                            "version": "1.1"
+                        },
+                        "response": {
+                            "headers": {
+                            },
+                            "reason": "OK",
+                            "status": "200",
+                            "version": "1.1"
+                        },
+                        "type": "none"
+                    }
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "allowInsecureCiphers": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "certificates": [
+                    ],
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false,
+                    "serverName": ""
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bilivideo.com"
+                    },
+                    "path": "/BV1Yy4y1J7"
+                },
+                "xtlsSettings": {
+                    "allowInsecure": false,
+                    "allowInsecureCiphers": false,
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "certificates": [
+                    ],
+                    "disableSessionResumption": true,
+                    "disableSystemRoot": false,
+                    "serverName": ""
+                }
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

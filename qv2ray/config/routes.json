@@ -1,0 +1,410 @@
+{
+    "akmbviolzohv": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "ecsgkzzjfuvy": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "fsalkkglyuha": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "kjuetpmaqplm": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "null": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "rqpqgjbozcpd": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "urhxbjmdneky": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    },
+    "zvrtlqcskffs": {
+        "connectionConfig": {
+            "bypassBT": false,
+            "bypassCN": true,
+            "bypassLAN": true,
+            "dnsIntercept": false,
+            "enableProxy": true,
+            "v2rayFreedomDNS": false,
+            "withLocalDNS": true
+        },
+        "dnsConfig": {
+            "clientIp": "",
+            "hosts": {
+            },
+            "servers": [
+            ],
+            "tag": ""
+        },
+        "forwardProxyConfig": {
+            "enableForwardProxy": false,
+            "password": "",
+            "port": 0,
+            "serverAddress": "",
+            "type": "http",
+            "useAuth": false,
+            "username": ""
+        },
+        "overrideConnectionConfig": false,
+        "overrideDNS": false,
+        "overrideForwardProxyConfig": false,
+        "overrideRoute": false,
+        "routeConfig": {
+            "domainStrategy": "AsIs",
+            "domains": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            },
+            "ips": {
+                "block": [
+                ],
+                "direct": [
+                ],
+                "proxy": [
+                ]
+            }
+        }
+    }
+}
